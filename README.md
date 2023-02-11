@@ -7,5 +7,5 @@
 - 💬 Ask me about business deals.
 - 📫 How to reach me: Call me @ 08149175636, email me at @ brightonwuemeri@gmail.com
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: Likes talk about money/business,Movies, Travel
+- ⚡ Fun fact: Likes to talk about money/business,Movies, Travel
 
