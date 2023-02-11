@@ -10,4 +10,5 @@
 - ⚡ Fun fact: Likes to talk about money/business,Movies, Travel
 
 
-https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical
+<img  align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Britinogn&show_icons=true&theme=radical"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Britinogn&layout=compact"/>
