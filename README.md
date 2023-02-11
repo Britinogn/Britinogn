@@ -9,3 +9,5 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Likes to talk about money/business,Movies, Travel
 
+
+https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical
