@@ -1,11 +1,11 @@
-### Hi there, my name is Bright Onwuemeri 👋
+### Hi there, this to Tino Nova Tech 👋
 
 - 🔭 I’m currently working on Full Stack Development.
 - 🌱 I’m currently learning Front End Development.
 - 👯 I’m looking to collaborate on Job Opportunities, Web Development,et.c
 - 🤔 I’m looking for help with more ideas on how to make money, ideas on how to be a better web developer,ideas on how to do things better.
 - 💬 Ask me about business deals.
-- 📫 How to reach me: Call me @ +2348149175636, email me at @ brightonwuemeri@gmail.com
+- 📫 How to reach me: WA me @ +2348149175636, email me at @ tinonovatech.dev@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: People thinks i'm Rich
 
