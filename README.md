@@ -7,8 +7,7 @@
 - 💬 Ask me about business deals.
 - 📫 How to reach me: Email me at @ tinonovatech.dev@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: People thinks i'm Rich
-
+- ⚡ Fun fact:I’m an an explorer of ideas, places, and possibilities.
 
 <img  align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Britinogn&show_icons=true&theme=radical"/> 
 
