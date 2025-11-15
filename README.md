@@ -1,4 +1,4 @@
-### Hi there, this to Tino Nova Tech 👋
+### Hi there, this to Tino Ctemz 👋
 
 - 🔭 I’m currently working on Full Stack Development.
 - 🌱 I’m currently learning Front End Development.
