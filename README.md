@@ -15,6 +15,7 @@
 <img align="left" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 <img  src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img align="left" src="https://img.shields.io/badge/python-%23777BB4.svg?style=for-the-badge&logo=python&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/go%23777BB4.svg?style=for-the-badge&logo=go&logoColor=white"/>
 <img  src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 
 
